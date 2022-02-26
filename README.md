@@ -56,7 +56,7 @@ After collecting the data, checked for the null and duplicate values present in 
 ## Resources Consumed for this project & where you can find them:
 
     Python Ver: 3.9.0
-    Packages Used: Pandas, Numpy, Matplotlib, Seaborn, and Wordckoud.
+    Packages Used: Pandas, Numpy, Matplotlib, and Seaborn.
 
 * Matplotlib Documentation: [Click here](https://matplotlib.org/3.1.1/api/_as_gen/matplotlib.pyplot.boxplot.html?highlight=boxplot#matplotlib.pyplot.boxplot)
 * Seaborn Documentation: [Click here](http://seaborn.pydata.org/examples/many_pairwise_correlations.html)
